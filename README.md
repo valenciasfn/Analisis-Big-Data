@@ -95,6 +95,10 @@ Setiap klaster memiliki karakteristik berikut:
 
 Visualisasi ini menunjukkan hubungan antara tempo, atau kecepatan sebuah lagu, dan popularitasnya. Jadi popularitas sebuah lagu tidak dipengaruhi secara langsung oleh tempo. Sebaliknya, lagu dengan kecepatan yang berbeda memiliki peluang yang sama untuk menjadi populer.
 
+## Kesimpulan
+Masalah utama adalah mengidentifikasi hubungan antara genre, karakteristik lagu, dan popularitasnya di Spotify. Pendekatan meliputi penggunaan data historis Spotify, pembersihan dataset, analisis visual, dan pemodelan sederhana untuk menemukan wawasan utama. Analisis mengungkap bahwa genre pop dan R&B mendominasi popularitas di berbagai demografi, sementara atribut seperti danceability dan valence juga memengaruhi daya tarik lagu. Wawasan ini berguna untuk musisi dalam menciptakan lagu yang lebih sesuai dengan target audiens dan untuk Spotify dalam menyempurnakan rekomendasi lagu. Keterbatasan termasuk bias dataset terhadap lagu populer tertentu serta kurangnya informasi tentang faktor budaya atau preferensi lokal. Peningkatan bisa dilakukan dengan menambah data yang lebih terkini atau melibatkan faktor eksternal seperti tren media sosial.
+
 ## Author
-[Nazilullaily Nur Aisyah]
-[Valencia Sefiana Putri]
+[Nazilullaily Nur Aisyah_202110370311443]
+
+[Valencia Sefiana Putri_202110370311482]
