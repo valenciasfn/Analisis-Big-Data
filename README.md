@@ -73,13 +73,23 @@ Danceability dan energy berkontribusi pada karakteristik lagu, tetapi popularita
 
 ### **Visualisasi PCA: Popularitas Lagu**
 ![Visualisasi PCA](assets/Visualisasi@20PCA.png)
+
 Visualisasi ini menunjukkan bagaimana lagu-lagu dengan berbagai tingkatan popularitas tersebar dalam ruang dimensi yang dihasilkan PCA (Principal Component Analysis). Lagu dengan popularitas tertinggi ditunjukkan oleh warna merah, menunjukkan bahwa fitur numerik tertentu memiliki hubungan yang kuat dengan popularitas. Sebaliknya, jika warna tersebar merata, berarti fitur yang digunakan tidak cukup untuk memprediksi popularitas dengan baik.
 
 ## **Clustering**
 ### **Berdasarkan Danceability, Energy, dan Track Popularity**
 ![Clustering1](assets/Clustering@20Berdasarkan@20danceability,@20energy,@20dan@20popularitas.png)
+
+Visualisasi ini menunjukkan bagaimana lagu-lagu dapat dikelompokkan berdasarkan danceability, energy, dan popularitas.
+
 ### **Berdasarkan Danceability dan Energy**
 ![Clustering2](assets/Clustering@20Berdasarkan@20Danceability@20dan@20Energy.png)
+
+Setiap klaster memiliki karakteristik berikut:
+- Klaster kuning (Danceability tinggi, Energy tinggi): Lagu-lagu yang cenderung energik dan sangat cocok untuk aktivitas menari.
+- Klaster ungu (Danceability rendah, Energy tinggi): Lagu-lagu dengan energi tinggi tetapi kurang danceable, mungkin cocok untuk genre tertentu seperti lagu keras atau intens tetapi tidak untuk menari.
+- Klaster hijau toska (Danceability rendah, Energy tinggi): Lagu-lagu dengan energi tinggi tetapi kurang danceable, mungkin cocok untuk suasana santai atau introspektif.
+
 ### **Hubungan antara Tempo dan Popularity**
 ![Hubungan Tempo dan Popularitas](assets/Hubungan@20antara@20Tempo@20dan@20Popularitas.png)
 Visualisasi ini menunjukkan hubungan antara tempo, atau kecepatan sebuah lagu, dan popularitasnya. Jadi popularitas sebuah lagu tidak dipengaruhi secara langsung oleh tempo. Sebaliknya, lagu dengan kecepatan yang berbeda memiliki peluang yang sama untuk menjadi populer.
