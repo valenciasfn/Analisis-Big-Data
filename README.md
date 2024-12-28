@@ -92,7 +92,6 @@ Setiap klaster memiliki karakteristik berikut:
 
 ### **Hubungan antara Tempo dan Popularity**
 ![Hubungan Tempo dan Popularitas](assets/Hubungan%20antara%20Tempo%20dan%20Popularitas.png)
-(assets/Hubungan antara Tempo dan Popularitas.png
 
 Visualisasi ini menunjukkan hubungan antara tempo, atau kecepatan sebuah lagu, dan popularitasnya. Jadi popularitas sebuah lagu tidak dipengaruhi secara langsung oleh tempo. Sebaliknya, lagu dengan kecepatan yang berbeda memiliki peluang yang sama untuk menjadi populer.
 
