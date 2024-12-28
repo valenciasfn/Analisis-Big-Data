@@ -1,6 +1,7 @@
 # **EKSPLORASI PENGARUH GENRE MUSIK TERHADAP POPULARITAS LAGU PADA PLATFORM SPOTIFY**
 
 ![Spotify](assets/Spotify.jpg)
+
 Genre musik memainkan peran penting dalam menentukan daya tarik dan popularitas sebuah lagu. Berbagai genre seperti pop, R&B, hip-hop, hingga K-Pop memiliki karakteristik unik yang memengaruhi respons pendengar. Tujuan utama penelitian ini adalah untuk memahami pola popularitas ini agar dapat memberikan wawasan berharga bagi musisi dalam menciptakan karya yang lebih resonan dengan audiens mereka.
 
 Industri musik digital saat ini terus berkembang pesat dengan pola konsumsi musik yang berubah ke arah digital. Namun, bagaimana genre dan karakteristik lagu memengaruhi popularitasnya masih menjadi pertanyaan yang belum sepenuhnya terjawab. Oleh karena itu, penelitian ini bertujuan untuk mengeksplorasi data lagu dari Spotify dan menjawab pertanyaan kunci mengenai pola genre dan penyanyi tertentu dalam meningkatkan popularitas lagu.
